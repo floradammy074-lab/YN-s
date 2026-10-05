@@ -1,0 +1,10 @@
+{
+  "name": "Wallet",
+  "short_name": "Wallet",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e8defc",
+  "theme_color": "#e0d4fb",
+  "orientation": "portrait"
+}
